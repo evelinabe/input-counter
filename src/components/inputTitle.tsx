@@ -1,5 +1,5 @@
 import React from "react";
-import { Typography, Icon } from "@mui/material";
+import { Icon, Typography } from "@mui/material";
 
 export const InputTitle = () => {
   return (
